@@ -1,0 +1,29 @@
+.seller-auth-heading {
+  color: blueviolet;
+  text-align: center;
+  font-size: 3rem;
+}
+
+.seller-auth {
+  margin-top: 6%;
+}
+
+form {
+  width: 65%;
+  margin-left: 18%;
+}
+
+.form-group label {
+  margin-bottom: 0.5em;
+  color: blueviolet;
+}
+
+.form-group input {
+  margin-bottom: 0.5em;
+  color: blueviolet;
+}
+
+.seller-auth button {
+  width: 100%;
+  margin-top: 1em;
+}
